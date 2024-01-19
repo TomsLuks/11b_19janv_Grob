@@ -1,0 +1,10 @@
+{
+    "vards":"Toms",
+    "vecums": 17,
+    "adrese": {
+        "Majas nosaukums": "Krūmi",
+        "pilsēta": "Rīga",
+        "Mežs": true
+    },
+    "koki": ["ozols", "egle"]
+}
